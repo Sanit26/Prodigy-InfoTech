@@ -1,1 +1,16 @@
+🐦 4. Social Buzz Sentiment Analysis 🐦
 
+Description:
+This project focused on analyzing sentiment from Twitter data to understand public opinion on various topics. I used Natural Language Processing (NLP) techniques to preprocess and analyze tweets, and built a sentiment classification model to categorize tweets as positive, negative, or neutral.
+
+Key Highlights:
+
+Collected data from Twitter using the Tweepy library and preprocessed it for analysis.
+Applied NLP techniques such as tokenization, stopword removal, and lemmatization.
+Built a sentiment analysis model using machine learning algorithms such as Naive Bayes and Support Vector Machines (SVM).
+
+Skills Acquired:
+
+Gained expertise in Natural Language Processing (NLP) for text data analysis.
+Improved understanding of sentiment analysis techniques and their applications.
+Developed skills in handling social media data and extracting actionable insights.
